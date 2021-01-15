@@ -26,6 +26,7 @@
 .body{
     background-color: rgb(137, 165, 82);
     margin-top: 20px;
+    margin-left: 80px;
     padding: 15px 15px;
     border:1px rgb(137, 165, 82);
     border-radius:7px;
@@ -53,7 +54,7 @@
 }
 .color{
     width:100%;
-    height:1010px;
+    height:1100px;
     background-color:rgb(245, 235, 217);
 }
 
@@ -65,3 +66,40 @@
      margin:75px;
  }
  
+ .box{
+    width: 300px;
+    border: 1px solid wheat;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+    text-align:justify;
+}
+.box img{
+    width:25%;
+    margin:12px;
+    float:left;
+    text-align: justify;
+}
+.box-image{
+    width: 600px;
+    height: 360px;
+    border: 1px solid wheat;
+    border-radius: 15px;
+    padding: 1px;
+    margin:20px;
+    text-align:justify;
+}
+.box-image img{
+    width:30%;
+    float:left;
+    text-align: justify;
+}
+.one{
+width:10%;
+margin:12px;
+float:left;
+text-align: justify;
+}
+.orange{
+    color:orange;
+}
