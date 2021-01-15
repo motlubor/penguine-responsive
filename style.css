@@ -67,7 +67,7 @@
  }
  
  .box{
-    width: 300px;
+    width: 350px;
     border: 1px solid wheat;
     border-radius: 15px;
     padding: 20px;
@@ -102,4 +102,8 @@ text-align: justify;
 }
 .orange{
     color:orange;
+}
+.gap{
+    margin-top: 65px;
+    margin-left: 65px;
 }
